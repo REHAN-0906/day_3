@@ -1,0 +1,10 @@
+a="USE YOUR MOBILE OPEN THE IMOBILE APP CLICK ON 'SCAN ANY QR' SCAN & PAY INSTANTLY! T&CS."
+print("After slicing :",a[16:20:1])
+print("After slicing :",a[33:36:1])
+print("After slicing :",a[47:51:1])
+print("After slicing :",a[65:84:18])
+print("After slicing :",a[75:78:1])
+print("After slicing :",a[43:46:1])
+print("After slicing :",a[49:51:1])
+print("After slicing :",a[82:85:2])
+print("After slicing :",a[71:76:1])

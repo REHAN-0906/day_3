@@ -2,7 +2,10 @@
 
 a="RESPECT"
 b=a[2:4:1]
-print(b)
+print("after slicing :",b)
 
-b="collabration"
-print(b[3:6:1])
+c="collaborate"
+d=c[7:11:1]
+e=c[0:7:2]
+print("after slicing :",d)
+print("after slicing :",e)
